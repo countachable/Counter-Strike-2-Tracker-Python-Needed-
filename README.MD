@@ -1,4 +1,10 @@
-BEFORE YOU DO ANY OF THESE STEPS INSTALL PYTHON ONTO YOUR COMPUTER SO THE TRACKER CAN RUN!!! IT WILL NOT WORK WITHOUT IT!!
+BEFORE YOU DO ANY OF THESE STEPS INSTALL PYTHON AND WAITRESS ONTO YOUR COMPUTER SO THE TRACKER CAN RUN!!! IT WILL NOT WORK WITHOUT IT!!
+
+How to install to install python and waitress;
+
+Python; https://www.youtube.com/watch?v=gPPxB3DSz2I (NOT MY VIDEO.)
+
+Waitress (install AFTER python); Open command prompt, enter "pip install waitress" and your done.
 
 
 
@@ -19,4 +25,5 @@ Here are the virustotal scans of all the files (The .exe, .py and .cfg file.)
 .py files scan; https://www.virustotal.com/gui/file/dbeb4083fa9133215922c013c47043434caec2d9c6522f034b482181b8318b3b
 
 .cfg files scan; https://www.virustotal.com/gui/file/db1c21183d026a91faf1d1d93379d8a2ff927791d41564208fe61702c9f1d3d3?nocache=1
+
 
