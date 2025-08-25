@@ -7,7 +7,7 @@ Step one; Paste the projects files in your C: driver folder
 Step two; Copy the .cfg file and paste it in your 
 "C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg" repository.
 
-Step three; open the tracker_server.py file and go to line 34 col 70 it should say "My_player_name" and paste your steam nick-name not your one time username.
+Step three; open the tracker_server.py file and go to line 34 it should say "My_player_name" and paste your steam nick-name not your one time username.
 
 
 Step four; run CS2 and the run the exe file and it should auto start the 
@@ -19,3 +19,4 @@ Here are the virustotal scans of all the files (The .exe, .py and .cfg file.)
 .py files scan; https://www.virustotal.com/gui/file/dbeb4083fa9133215922c013c47043434caec2d9c6522f034b482181b8318b3b
 
 .cfg files scan; https://www.virustotal.com/gui/file/db1c21183d026a91faf1d1d93379d8a2ff927791d41564208fe61702c9f1d3d3?nocache=1
+
