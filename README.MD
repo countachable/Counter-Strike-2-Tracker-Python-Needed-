@@ -22,9 +22,10 @@ Here are the virustotal scans of all the files (The .exe, .py and .cfg file.)
 
 .exe files scan; https://www.virustotal.com/gui/file/1eabb79b3e5b37afe53c31b807b13f481dcbdd1f21477fdacacfbb443269a04e?nocache=1  (yes it is 19/72 it is false postives trust it if you want i dont get anything from this, if you really dont trust it just make your own .bat file with "cd C:\Projects\CS2_Tracker_AllGameModes" on line 1 and 'Python tracker_server.py" on line 2.)
 
-.py files scan; https://www.virustotal.com/gui/file/dbeb4083fa9133215922c013c47043434caec2d9c6522f034b482181b8318b3b
+.py files scan; https://www.virustotal.com/gui/file/8f0fb51cae50dd3bf0436b39cf95a24f7bc365e8dfec55ffad5002d23b72aee2?nocache=1
 
-.cfg files scan; https://www.virustotal.com/gui/file/db1c21183d026a91faf1d1d93379d8a2ff927791d41564208fe61702c9f1d3d3?nocache=1
+.cfg files scan; https://www.virustotal.com/gui/file/6ec705e04623641e14420c005cabe928ad8eb73b83419c5668c842d1c8c16e3b?nocache=1
+
 
 
 
